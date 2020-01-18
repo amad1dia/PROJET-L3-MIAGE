@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36e08c47-c204-48d1-801f-1de107f62110" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TcHiuJrbKanXuewvWtx8WAXQXj" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.istic.prgr1.exams.deuxodixsept" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cours_L3MIAGE\TP-PROG\all-prog1" />
+      <recent name="D:\cours_L3MIAGE\TP-PROG\all-prog1\src\fr\istic\prgr1\tp6" />
+      <recent name="D:\cours_L3MIAGE\TP-PROG\all-prog1\src\fr\istic\prgr1\tp5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.World">
+    <configuration name="TpArbre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.istic.prgr1.tp6.tree.TpArbre" />
+      <module name="all-prog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.prgr1.tp6.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.istic.prgr1.exams.World" />
+      <module name="all-prog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.prgr1.exams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="all-prog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.prgr1.tp6.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.istic.prgr1.tp6.tree.test" />
+      <option name="MAIN_CLASS_NAME" value="fr.istic.prgr1.tp6.tree.test.TestImage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMySet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="all-prog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.prgr1.tp5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.istic.prgr1.tp5.test" />
+      <option name="MAIN_CLASS_NAME" value="fr.istic.prgr1.tp5.test.TestMySet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMySet.testSize1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="all-prog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.prgr1.tp5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.istic.prgr1.tp5.test" />
+      <option name="MAIN_CLASS_NAME" value="fr.istic.prgr1.tp5.test.TestMySet" />
+      <option name="METHOD_NAME" value="testSize1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.World" />
+        <item itemvalue="JUnit.TestImage" />
+        <item itemvalue="JUnit.TestMySet" />
+        <item itemvalue="Application.TpArbre" />
+        <item itemvalue="JUnit.TestMySet.testSize1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e08c47-c204-48d1-801f-1de107f62110" name="Default Changelist" comment="" />
+      <created>1573752593229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573752593229</updated>
+      <workItem from="1573752600280" duration="1129000" />
+      <workItem from="1573805495121" duration="60000" />
+      <workItem from="1573846073031" duration="7474000" />
+      <workItem from="1574185576889" duration="9094000" />
+      <workItem from="1574274964811" duration="1153000" />
+      <workItem from="1574371402664" duration="1329000" />
+      <workItem from="1574547109259" duration="10181000" />
+      <workItem from="1574607088680" duration="14906000" />
+      <workItem from="1574632841356" duration="4111000" />
+      <workItem from="1574705901722" duration="18974000" />
+      <workItem from="1574757691019" duration="18971000" />
+      <workItem from="1574790652444" duration="8486000" />
+      <workItem from="1574860100767" duration="7617000" />
+      <workItem from="1575317953684" duration="8036000" />
+      <workItem from="1575364413787" duration="37587000" />
+      <workItem from="1575453824340" duration="17515000" />
+      <workItem from="1575498597546" duration="3224000" />
+      <workItem from="1575537082051" duration="2238000" />
+      <workItem from="1575633346727" duration="4613000" />
+      <workItem from="1575657863519" duration="2713000" />
+      <workItem from="1575716498559" duration="13051000" />
+      <workItem from="1575748054305" duration="5748000" />
+      <workItem from="1575800845916" duration="20890000" />
+      <workItem from="1575909640435" duration="6778000" />
+      <workItem from="1576154839613" duration="9008000" />
+      <workItem from="1576279445041" duration="2142000" />
+      <workItem from="1576591240638" duration="6003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
